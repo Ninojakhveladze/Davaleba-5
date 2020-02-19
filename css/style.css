@@ -1,5 +1,39 @@
-.fonts {
-
+.box {
+	background: #56836F;
+	height: 700px;
+	width: 1286px;
+	margin: 40px auto;
+	border-style: solid;
+	border-color: #006837;
+	border-width: 5px;  
+}
+/*
+.box1 {
+	margin-top: 70px;
+}
+*/
+li {
+	font-size: 48px;
 	font-family: 'Myriad Pro Regular';
-	font-size: 50px;
-	}
+	color: white;
+	display: inline-block;
+	margin-right: 50px;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+}
+.fly {
+	display: inline-block;
+	vertical-align: top;
+	float: right;
+}
+.box2 {
+	margin: 70px 100px;
+}
+.clear {
+	clear: right;
+}
