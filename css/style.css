@@ -7,11 +7,11 @@
 	border-color: #006837;
 	border-width: 5px;  
 }
-/*
+
 .box1 {
-	margin-top: 70px;
+	margin: 70px 100px;
 }
-*/
+
 li {
 	font-size: 48px;
 	font-family: 'Myriad Pro Regular';
@@ -31,9 +31,20 @@ ul {
 	vertical-align: top;
 	float: right;
 }
-.box2 {
-	margin: 70px 100px;
-}
 .clear {
 	clear: right;
+}
+.box4 {
+	display: inline-block;
+	width: 510px;
+	height: 350px;
+	background: #FCEE21;
+	margin-left: 100px;
+}
+.box5 {
+	display: inline-block;
+	width: 510px;
+	height: 350px;
+	background: #FCEE21;
+	margin-left: 30px;
 }
