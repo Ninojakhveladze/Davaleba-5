@@ -48,3 +48,32 @@ ul {
 	background: #FCEE21;
 	margin-left: 30px;
 }
+.firstbox {
+	width: 456px;
+	height: 315px;
+	margin: 18px 25px;
+}
+.secondbox {
+	width: 456px;
+	height: 315px;
+	margin: 18px 25px;
+}
+.computer1 {
+	width: 150px;
+	height: 110px;
+	float: right;
+}
+.computer2 {
+	width: 150px;
+	height: 110px;
+	float: left;
+}
+.text {
+	font-family: 'Segoe UI';
+	font-size: 14px;
+	color: #006837;
+}
+.text1 {
+	font-family: 'Segoe UI';
+	font-size: 14px;
+}
