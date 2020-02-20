@@ -62,11 +62,15 @@ ul {
 	width: 150px;
 	height: 110px;
 	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
 }
 .computer2 {
 	width: 150px;
 	height: 110px;
 	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
 .text {
 	font-family: 'Segoe UI';
